@@ -32,4 +32,11 @@ Project Tasks
 |Description: a program that Prints Fizz-Buzz test
 
 |Filename: 10-print_triangle.c
-|Description: a function that prints a triangle 
+|Description: a function that prints a triangle
+
+|Filename: 100-prime_factor.c
+|Description: a program that finds and prints the largest prime factor of the number 612852475143
+
+|Filename: 101-print_number.c
+|Description: a function that prints an intege
+ 
