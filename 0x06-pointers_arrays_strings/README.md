@@ -25,6 +25,12 @@ Description: a function that capitalizes all words of a string
 Filename: 7-leet.c
 Description:  a function that encodes a string into 1337
 
+Filename: 100-rot13.c
+Description: a function that encodes a string using rot13.
+
+Filename:
+Description:
+
 Filename:
 Description:
 
