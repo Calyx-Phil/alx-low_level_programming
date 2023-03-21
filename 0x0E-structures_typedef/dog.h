@@ -3,12 +3,12 @@
 
 
 	/**
-	 * struct dog - a dog's basic info
+	 * struct dog - struct dog
 	 * @name: First member
 	 * @age: Second member
 	 * @owner: Third member
 	 *
-	 * Description: Longer description
+	 * Description: This struct is for a dog
 	 */
 	struct dog
 	{
